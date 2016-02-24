@@ -11,7 +11,7 @@ Due to restrictions of the Enterprise version, the Docker image needs to be set 
 Hence the directory should look like this:
 * mule-mmc/
 * mule-mmc/Dockerfile
-* mule-mmc/mmc-distribution-mule-console-bundle-3.5.1.zip
+* mule-mmc/mmc-distribution-mule-console-bundle-3.7.0.zip
 
 Building and tagging the Docker image
 ---------------
